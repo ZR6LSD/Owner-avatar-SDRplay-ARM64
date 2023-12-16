@@ -1,4 +1,4 @@
-# SDRplay - Software-defined radio (SDR) Headless Linux Server ARM64 (Raspberry Pi)
+# SDRplay - Software-defined radio (SDR) Headless Linux Server (Raspberry Pi ARM64)
 ZR6LSD's Automatic SDRplay installation script for a headless linux server
 
 These are my own custom modified installation scripts to download and install RSPTCP Server.
