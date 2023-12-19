@@ -36,5 +36,8 @@ However, if you find any of my work or videos on my channel enjoyable or helpful
 
 Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
 
+- Please be sure to check out my youtube channel Thanks! 73's Dave ZR6LSD
+- YouTube: https://youtu.be/a-LpTukM0i8
+
 
 
